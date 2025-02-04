@@ -50,8 +50,8 @@ python3 certs_007.py /path/to/extracted_directory
 
 --------------------------------------------
 
-🔎 What’s Next?
-📌 What Do Your Findings Mean?
+🔎 **What’s Next?**
+📌 **What Do Your Findings Mean?**
 
 🟢 **Safe Certificate:** SHA-256 pinning is properly applied. All good. 😎
 
