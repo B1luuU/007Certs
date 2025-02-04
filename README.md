@@ -19,18 +19,18 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 🚀 How to Use
 
 1️⃣ Install OpenSSL (if not already installed):
-
+```
 sudo apt install openssl
-
+```
 2️⃣ Clone this repository:
-
+```
 git clone https://github.com/yourusername/007-certs.git
 cd 007-certs
-
+```
 3️⃣ Run the script and investigate your app:
-
+```
 python3 certs_007.py /path/to/extracted_directory
-
+```
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
 
 📝 Example Output
