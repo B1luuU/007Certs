@@ -1,4 +1,4 @@
-🕵️‍♂️ 007 Certs - The Ultimate Certificate Analysis Tool
+🕵️‍♂️ **007 Certs - The Ultimate Certificate Analysis Tool**
 
 --------------------------------------------
 🔥 **What is 007 Certs?**
