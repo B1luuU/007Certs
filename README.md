@@ -1,4 +1,4 @@
-🕵️‍♂️ # 007 Certs - The Ultimate Certificate Analysis Tool
+🕵️‍♂️ 007 Certs - The Ultimate Certificate Analysis Tool
 
 🔥 What is 007 Certs?
 
@@ -10,7 +10,11 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 
 🛠️ Main Features
 
-✅ Hunt for .der Files – Finds all certificates hidden in your app. 🔎✅ Certificate X-Ray – Detects private keys and verifies SHA-256 pinning. 🏴‍☠️✅ Hacking the Executable – Searches for SHA-256 hashes and hidden references. 💾✅ Scans Configuration Files – Finds traces in .plist, .json, and .xml files. 🗃️✅ Comprehensive Report – Documents all findings for easy analysis. 📑
+✅ Hunt for .der Files – Finds all certificates hidden in your app. 🔎
+✅ Certificate X-Ray – Detects private keys and verifies SHA-256 pinning. 🏴‍☠️
+✅ Hacking the Executable – Searches for SHA-256 hashes and hidden references. 💾
+✅ Scans Configuration Files – Finds traces in .plist, .json, and .xml files. 🗃️
+✅ Comprehensive Report – Documents all findings for easy analysis. 📑
 
 🚀 How to Use
 
@@ -47,6 +51,7 @@ python3 certs_007.py /path/to/extracted_directory
 >> 📜 Inspecting configuration files...
   📝 Found config file: /path/to/config.json
 --------------------------------------------
+
 ✅ Analysis Complete!
 
 🔎 What’s Next?
