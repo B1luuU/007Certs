@@ -46,8 +46,7 @@ python3 certs_007.py /path/to/extracted_directory
 --------------------------------------------
 📝 **Example Output**
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/4ff57694-afcc-4a7f-9ff7-305749ba397b)
 
 --------------------------------------------
 
