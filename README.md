@@ -1,4 +1,4 @@
-🕵️‍♂️ **007 Certs - The Ultimate Certificate Analysis Tool**
+🕵️‍♂️ 007 Certs - The Ultimate Certificate Analysis Tool
 
 🔥 **What is 007 Certs?**
 
@@ -6,6 +6,7 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 
 🎯 "Because not every certificate has a license to pass."
 
+--------------------------------------------
 🛠️ **Main Features**
 
 ✅ **Hunt for .der Files** – Finds all certificates hidden in your app. 🔎
@@ -19,6 +20,7 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 ✅ **Comprehensive Report** – Documents all findings for easy analysis. 📑
 
 
+--------------------------------------------
 🚀 **How to Use**
 
 1️⃣ Install OpenSSL (if not already installed):
