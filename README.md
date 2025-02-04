@@ -28,7 +28,6 @@ sudo apt install openssl
 2️⃣ Clone this repository:
 ```
 git clone https://github.com/yourusername/007-certs.git
-cd 007-certs
 ```
 3️⃣ Run the script and investigate your app:
 ```
@@ -42,12 +41,12 @@ python3 certs_007.py /path/to/extracted_directory
 --------------------------------------------
 🔍 Analyzing certificates...
 --------------------------------------------
->> 🕵️ Found .der file: /path/to/file.der
->> 
+ 🕵️ Found .der file: /path/to/file.der
+
   🔹 Public Certificate | SHA-256: ABCD1234...
 
->> 🚀 Locating the main binary...
->> 
+ 🚀 Locating the main binary...
+
 🎯 Executable: /path/to/binary
 
   🔥 Detected SHA-256 Hashes:
@@ -57,12 +56,11 @@ python3 certs_007.py /path/to/extracted_directory
   
   /data/cert.der
 
->> 📜 Inspecting configuration files...
+ 📜 Inspecting configuration files...
   📝 Found config file: /path/to/config.json
---------------------------------------------
-
 
 ✅ Analysis Complete!
+--------------------------------------------
 
 🔎 What’s Next?
 
