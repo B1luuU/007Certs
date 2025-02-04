@@ -1,22 +1,20 @@
-🕵️‍♂️ ##007 Certs - The Ultimate Certificate Analysis Tool
+🕵️‍♂️ **007 Certs - The Ultimate Certificate Analysis Tool**
 
-🔥 What is 007 Certs?
+🔥 **What is 007 Certs?**
 
 Inspired by the legendary secret agent James Bond, 007 Certs is your secret weapon for investigating certificates, detecting insecure pinning, and analyzing suspicious .der files in your apps. Fast, precise, and stylish – the James Bond of certificates. 🕶️
 
-🎯 Slogan
+🎯 "Because not every certificate has a license to pass."
 
-"Because not every certificate has a license to pass."
+🛠️ **Main Features**
 
-🛠️ Main Features
+✅ **Hunt for .der Files** – Finds all certificates hidden in your app. 🔎
+✅ **Certificate X-Ray** – Detects private keys and verifies SHA-256 pinning. 🏴‍☠️
+✅ **Hacking the Executable** – Searches for SHA-256 hashes and hidden references. 💾
+✅ **Scans Configuration Files** – Finds traces in .plist, .json, and .xml files. 🗃️
+✅ **Comprehensive Report** – Documents all findings for easy analysis. 📑
 
-✅ Hunt for .der Files – Finds all certificates hidden in your app. 🔎
-✅ Certificate X-Ray – Detects private keys and verifies SHA-256 pinning. 🏴‍☠️
-✅ Hacking the Executable – Searches for SHA-256 hashes and hidden references. 💾
-✅ Scans Configuration Files – Finds traces in .plist, .json, and .xml files. 🗃️
-✅ Comprehensive Report – Documents all findings for easy analysis. 📑
-
-🚀 How to Use
+🚀 **How to Use**
 
 1️⃣ Install OpenSSL (if not already installed):
 ```
@@ -33,7 +31,7 @@ python3 certs_007.py /path/to/extracted_directory
 ```
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
 
-📝 Example Output
+📝 **Example Output**
 
 --------------------------------------------
 🔍 Analyzing certificates...
@@ -58,11 +56,11 @@ python3 certs_007.py /path/to/extracted_directory
 
 📌 What Do Your Findings Mean?
 
-🟢 Safe Certificate: SHA-256 pinning is properly applied. All good. 😎
+🟢 **Safe Certificate:** SHA-256 pinning is properly applied. All good. 😎
 
-⚠️ Issue Detected: Exposed private keys or weak pinning. 🚨
+⚠️ **Issue Detected:** Exposed private keys or weak pinning. 🚨
 
-😂 Funny Situation: You spent hours analyzing something irrelevant, but hey, it's all part of the game! 🎭
+😂 **Funny Situation:** You spent hours analyzing something irrelevant, but hey, it's all part of the game! 🎭
 
 Ready to dive into the world of certificates? 007 Certs has your back! 🏆
 
