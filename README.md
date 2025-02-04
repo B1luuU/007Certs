@@ -1,7 +1,6 @@
 🕵️‍♂️ 007 Certs - The Ultimate Certificate Analysis Tool
 
 --------------------------------------------
-
 🔥 **What is 007 Certs?**
 
 Inspired by the legendary secret agent James Bond, 007 Certs is your secret weapon for investigating certificates, detecting insecure pinning, and analyzing suspicious .der files in your apps. Fast, precise, and stylish – the James Bond of certificates. 🕶️
@@ -25,6 +24,7 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 --------------------------------------------
 🚀 **How to Use**
 
+
 1️⃣ Install OpenSSL (if not already installed):
 ```
 sudo apt install openssl
@@ -44,6 +44,7 @@ python3 certs_007.py /path/to/extracted_directory
 📝 **Example Output**
 
 🔍 Analyzing certificates...
+
 --------------------------------------------
  🕵️ Found .der file: /path/to/file.der
 
@@ -64,6 +65,7 @@ python3 certs_007.py /path/to/extracted_directory
   📝 Found config file: /path/to/config.json
 
 ✅ Analysis Complete!
+
 --------------------------------------------
 
 🔎 What’s Next?
