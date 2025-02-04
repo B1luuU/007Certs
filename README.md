@@ -37,34 +37,17 @@ git clone https://github.com/yourusername/007-certs.git
 ```
 python3 certs_007.py /path/to/extracted_directory
 ```
+![image](https://github.com/user-attachments/assets/8ebda133-2671-499e-91af-ef1df8c08d80)
+
+
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
 
 
 --------------------------------------------
 📝 **Example Output**
 
+![Uploading image.png…]()
 
-🔍 Analyzing certificates...
-
- 🕵️ Found .der file: /path/to/file.der
-
-  🔹 Public Certificate | SHA-256: ABCD1234...
-
- 🚀 Locating the main binary...
-
-🎯 Executable: /path/to/binary
-
-  🔥 Detected SHA-256 Hashes:
-  
-  ABCD1234...
-  🔍 `.der` References:
-  
-  /data/cert.der
-
- 📜 Inspecting configuration files...
-  📝 Found config file: /path/to/config.json
-
-✅ Analysis Complete!
 
 --------------------------------------------
 
