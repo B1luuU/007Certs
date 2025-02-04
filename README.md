@@ -43,9 +43,9 @@ python3 certs_007.py /path/to/extracted_directory
 --------------------------------------------
 📝 **Example Output**
 
+
 🔍 Analyzing certificates...
 
---------------------------------------------
  🕵️ Found .der file: /path/to/file.der
 
   🔹 Public Certificate | SHA-256: ABCD1234...
@@ -69,7 +69,6 @@ python3 certs_007.py /path/to/extracted_directory
 --------------------------------------------
 
 🔎 What’s Next?
-
 📌 What Do Your Findings Mean?
 
 🟢 **Safe Certificate:** SHA-256 pinning is properly applied. All good. 😎
@@ -79,5 +78,6 @@ python3 certs_007.py /path/to/extracted_directory
 😂 **Funny Situation:** You spent hours analyzing something irrelevant, but hey, it's all part of the game! 🎭
 
 Ready to dive into the world of certificates? 007 Certs has your back! 🏆
+
 
 🎖️ License to Certify! 🚀
