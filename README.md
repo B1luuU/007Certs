@@ -18,6 +18,7 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 
 ✅ **Comprehensive Report** – Documents all findings for easy analysis. 📑
 
+
 🚀 **How to Use**
 
 1️⃣ Install OpenSSL (if not already installed):
@@ -35,24 +36,31 @@ python3 certs_007.py /path/to/extracted_directory
 ```
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
 
+
 📝 **Example Output**
 
 --------------------------------------------
 🔍 Analyzing certificates...
 --------------------------------------------
 >> 🕵️ Found .der file: /path/to/file.der
+>> 
   🔹 Public Certificate | SHA-256: ABCD1234...
 
 >> 🚀 Locating the main binary...
+>> 
 🎯 Executable: /path/to/binary
+
   🔥 Detected SHA-256 Hashes:
+  
   ABCD1234...
   🔍 `.der` References:
+  
   /data/cert.der
 
 >> 📜 Inspecting configuration files...
   📝 Found config file: /path/to/config.json
 --------------------------------------------
+
 
 ✅ Analysis Complete!
 
