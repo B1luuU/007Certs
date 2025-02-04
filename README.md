@@ -9,9 +9,13 @@ Inspired by the legendary secret agent James Bond, 007 Certs is your secret weap
 🛠️ **Main Features**
 
 ✅ **Hunt for .der Files** – Finds all certificates hidden in your app. 🔎
+
 ✅ **Certificate X-Ray** – Detects private keys and verifies SHA-256 pinning. 🏴‍☠️
+
 ✅ **Hacking the Executable** – Searches for SHA-256 hashes and hidden references. 💾
+
 ✅ **Scans Configuration Files** – Finds traces in .plist, .json, and .xml files. 🗃️
+
 ✅ **Comprehensive Report** – Documents all findings for easy analysis. 📑
 
 🚀 **How to Use**
