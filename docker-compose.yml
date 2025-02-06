@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  cert-analyzer:
+    build: .
+    container_name: 007certs_analyzer
+    volumes:
+      - ./data:/app/data   # Diretório onde você pode colocar arquivos para análise
+    command: python 007Certs.py
