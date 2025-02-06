@@ -39,8 +39,23 @@ python3 certs_007.py /path/to/extracted_directory
 ```
 ![image](https://github.com/user-attachments/assets/8ebda133-2671-499e-91af-ef1df8c08d80)
 
-
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
+
+
+--------------------------------------------
+🚧 **Run with Docker**
+
+1️⃣ Build the Docker image:
+```
+docker build -t 007certs .
+```
+
+2️⃣ Run the container and analyze your app:
+```
+docker run --rm -v $(pwd)/data:/app/data 007certs /app/data
+```
+
+3️⃣ Check the generated report in the mounted "data" directory.
 
 
 --------------------------------------------
