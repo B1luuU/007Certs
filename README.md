@@ -60,16 +60,7 @@ python3 007certs.py /path/to/unpacked/folder
 
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
 
- 📝 Sample Output
-
-🚀 Starting analysis with 007Certs...
-🔍 Looking for certificates (.crt, .pem, .key)...
-🧪 Validating key + certificate pairs...
-📂 Scanning configuration files...
-📊 Generating final report...
-✅ Report saved: analysis_report.txt
-📄 Summary saved: analysis_report_summary.txt
-🛡️ Final Risk Score: CRITICAL
+--------------------------------------------
 
 🔍 What Do the Results Mean?
 🔐 **Valid Private Key** → [CRITICAL] → Could allow MitM or spoofing if used in production.
