@@ -55,9 +55,6 @@ Or run it on an already extracted folder:
 ```
 python3 007certs.py /path/to/unpacked/folder
 ```
-
-![image](https://github.com/user-attachments/assets/8ebda133-2671-499e-91af-ef1df8c08d80)
-
 4️⃣ Check the generated report in analysis_report.txt to uncover hidden secrets. 🕵️
 
 --------------------------------------------
