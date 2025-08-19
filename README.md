@@ -46,7 +46,7 @@ pip install termcolor
 2️⃣ Clone this repository:
 ```
 git clone https://github.com/B1luuU/007Certs.git
-cd 007-certs
+cd 007Certs/
 ```
 3️⃣ Run the script and investigate your app:
 ```
